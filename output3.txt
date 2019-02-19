@@ -1,0 +1,12 @@
+82426 nodes expanded
+cost = 251
+Ship Sydney to Manila
+Ship Manila to Lithuania
+Ship Lithuania to Shanghai
+Ship Shanghai to Lithuania
+Ship Lithuania to Michigan
+Ship Michigan to Singapore
+Ship Singapore to Sydney
+Ship Sydney to Michigan
+Ship Michigan to Vancouver
+Ship Vancouver to Michigan

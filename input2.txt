@@ -1,0 +1,34 @@
+Refuelling 10 Sydney
+Refuelling 1 Mexico
+Refuelling 8 Japan
+Refuelling 17 Denmark
+Refuelling 22 Uganda
+Refuelling 7 France
+Refuelling 14 Germany
+Time 10 Sydney Mexico
+Time 8 Sydney Japan
+Time 7 Sydney Denmark
+Time 20 Sydney Uganda
+Time 13 Sydney France
+Time 15 Sydney Germany
+Time 10 Mexico Japan
+Time 8 Mexico Denmark
+Time 6 Mexico Uganda
+Time 20 Mexico France
+Time 13 Mexico Germany
+Time 13 Japan Denmark
+Time 11 Japan Uganda
+Time 17 Japan France
+Time 18 Japan Germany
+Time 20 Denmark Uganda
+Time 19 Denmark France
+Time 39 Denmark Germany
+Time 7 Uganda France
+Time 14 Uganda Germany
+Time 21 France Germany
+Shipment Mexico Uganda
+Shipment Japan France
+Shipment Mexico Germany
+Shipment Germany Sydney
+Shipment Japan Mexico
+Shipment France Denmark

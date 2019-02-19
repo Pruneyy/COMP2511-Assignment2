@@ -1,0 +1,35 @@
+Refuelling 10 Sydney            # Refuelling time is 10 days in Sydney 
+Refuelling 7 Shanghai           # Refuelling time is 7 days in Shanghai
+Refuelling 5 Singapore          # Refuelling time is 5 days in Singapore
+Refuelling 8 Vancouver          # Refuelling time is 8 days in Vancouver
+Refuelling 3 Manila             # Refuelling time is 3 days in Manila
+Refuelling 6 Lithuania          # Refuelling time is 6 days in Lithuania
+Refuelling 5 Michigan           # Refuelling time is 5 days in Michigan
+Time 16 Sydney Shanghai         # Travel time is 16 days from Sydney to Shanghai
+Time 28 Sydney Singapore        # Travel time is 28 days from Sydney to Singapore
+Time 13 Sydney Vancouver        # Travel time is 13 days from Sydney to Vancouver
+Time 12 Sydney Manila           # Travel time is 12 days from Sydney to Manila
+Time 19 Sydney Lithuania        # Travel time is 19 days from Sydney to Lithuania
+Time 22 Sydney Michigan         # Travel time is 22 days from Sydney to Michigan
+Time 11 Shanghai Singapore      # Travel time is 11 days from Shanghai to Singapore
+Time 22 Shanghai Vancouver      # Travel time is 22 days from Shanghai to Vancouver
+Time 15 Shanghai Manila         # Travel time is 15 days from Shanghai to Manila
+Time 17 Shanghai Lithuania      # Travel time is 17 days from Shanghai to Lithuania
+Time 31 Shanghai Michigan       # Travel time is 31 days from Shanghai to Michigan
+Time 24 Singapore Vancouver     # Travel time is 24 days from Singapore to Vancouver
+Time 22 Singapore Manila        # Travel time is 22 days from Singapore to Manila
+Time 20 Singapore Lithuania     # Travel time is 20 days from Singapore to Lithuania
+Time 18 Singapore Michigan      # Travel time is 18 days from Singapore to Michigan
+Time 20 Vancouver Manila        # Travel time is 20 days from Vancouver to Manila
+Time 18 Vancouver Lithuania     # Travel time is 18 days from Vancouver to Lithuania
+Time 22 Vancouver Michigan      # Travel time is 22 days from Vancouver to Michigan
+Time 18 Manila Lithuania        # Travel time is 18 days from Manila to Lithuania
+Time 12 Manila Michigan         # Travel time is 12 days from Manila to Michigan
+Time 10 Lithuania Michigan      # Travel time is 10 days from Lithuania to Michigan
+Shipment Singapore Sydney       # Shipment is required from Singapore to Sydney
+Shipment Shanghai Lithuania     # Shipment is required from Shanghai to Lithuania
+Shipment Sydney Michigan        # Shipment is required from Sydney to Michigan
+Shipment Sydney Manila          # Shipment is required from Sydney to Manila
+Shipment Lithuania Michigan     # Shipment is required from Lithuania to Michigan
+Shipment Manila Lithuania       # Shipment is required from Manila to Lithuania
+Shipment Vancouver Michigan     # Shipment is required from Vancouver to Lithuania

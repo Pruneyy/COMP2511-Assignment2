@@ -1,0 +1,11 @@
+9670 nodes expanded
+cost = 180
+Ship Sydney to Japan
+Ship Japan to Mexico
+Ship Mexico to Germany
+Ship Germany to Sydney
+Ship Sydney to Japan
+Ship Japan to France
+Ship France to Denmark
+Ship Denmark to Mexico
+Ship Mexico to Uganda
